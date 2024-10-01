@@ -44,6 +44,7 @@ erick:
       - "CSS"
       - "Angular"
       - "React"
+      - "VueJs"
     versioning:
       - "Git"
       - "GitHub"
